@@ -1,5 +1,5 @@
 # GoldenRatioWebPage
-Page Deployment Link: [https://beekayg15.github.io/GoldenRatioWebPage/](http://goldenratio.beekayg15.com/)
+Page Deployment Link: [http://goldenratio.beekayg15.com/](http://goldenratio.beekayg15.com/)
 ***
 An **Interactive** and **Informative** webpage on Golden Ratio created using `HTML5`, `CSS3`, and `JavaScript`.
 
